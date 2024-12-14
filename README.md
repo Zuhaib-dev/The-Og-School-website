@@ -46,12 +46,12 @@ Welcome to the official repository for **GHSS Zoohama**, the digital platform sh
 
 1. Clone the repository:
    ```bash
-   
+   https://github.com/Zuhaib-dev/The-Og-School-website.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd ghss-zoohama
+   cd The-Og-School-website
    ```
 
 3. Open `index.html` in your web browser to view the project.
