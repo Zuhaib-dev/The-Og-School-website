@@ -46,7 +46,7 @@ Welcome to the official repository for **GHSS Zoohama**, the digital platform sh
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ghss-zoohama.git
+   
    ```
 
 2. Navigate to the project directory:
