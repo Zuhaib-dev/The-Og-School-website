@@ -94,8 +94,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: [xuvaxuva006@gmail.com]
-- **Phone**: +91-XXXX-XXXXXX
+- **Email**: [zuhaibrashid01@gmail.com]
 - **Address**: GHSS Zoohama, Zoohama, Jammu and Kashmir, India
 
 ---
